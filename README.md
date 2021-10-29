@@ -1,3 +1,5 @@
+Codacy Badge Build Status
+
 Java Enterprise Online Project
 ===============================
 
